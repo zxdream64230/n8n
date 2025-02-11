@@ -1,7 +1,6 @@
 {
   "schemaVersion": 2,
-  "dockerfile": "./Dockerfile",
-  "image": "n8nio/n8n",
+  "imageName": "n8nio/n8n",
   "env": {
     "DB_TYPE": "postgresdb",
     "DB_HOST": "5.75.148.56",
